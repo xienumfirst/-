@@ -1,1 +1,7 @@
 This is the test1 file
+
+This is the first conflict in feat
+
+This is the second conflict in feat
+
+This is the third conflict in feat
