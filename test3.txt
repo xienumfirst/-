@@ -1,0 +1,9 @@
+This is the test3 file
+
+This is the first conflict in feat2 branch
+
+This is the same sentence in both branch
+
+This is the second conflict in feat2 branch
+
+This is the second same sentence in both branch
